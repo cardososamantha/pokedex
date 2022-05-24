@@ -1,10 +1,25 @@
-This is a [Next.js](https://nextjs.org/) boilerplate bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
+![image](https://user-images.githubusercontent.com/81335260/170127711-35cfcf50-a944-4013-9d85-8355bf49f59f.png)
+
+**Pokedex** is a [Next.js](https://nextjs.org/) web-app using a [boilerplate](https://github.com/cardososamantha/boilerplate) and consuming the [PokeApi](https://pokeapi.co/).
+
+See the app in action here (soon).
 
 
+## Features
 
+- Search for an specific Pokemon to see their status and informations.
+  
 
+## Getting started (development)
 
-## What's the boilerplate uses?
+- Clone this repository and open it your IDE/code editor.
+
+- Run `yarn` or `npm` to install all dependencies.
+
+- For available commands, check [the boilerplate documentation](https://github.com/cardososamantha/boilerplate/blob/main/README.md).
+
+## What's the app uses?
 
 - Typescript
 
@@ -14,53 +29,10 @@ This is a [Next.js](https://nextjs.org/) boilerplate bootstrapped with [`create-
 
 - Jest
 
-- React Testing Library
+- React Testing Library 
 
-- Eslint
+- ... and more!
 
-- Prettier
-
-- Husky
-
-- Githooks
-
-- Storybook
-
-  
-  
-  
-
-## Getting started
-
-- Clone this repository and open it in the source code in your IDE/code editor.
-
-- Run `yarn` or `npm` to install all dependencies.
-
-  
-  
-  
-
-## Commands
-
-- `dev`: runs your application on `localhost:3000`
-
-- `build`: creates the production build version
-
-- `start`: starts a simple server with the build production code
-
-- `lint`: runs the linter in all components and pages
-
-- `test`: runs jest to test all components and pages
-
-- `test:watch`: runs jest in watch mode
-
-- `storybook`: runs storybook on `localhost:6006`
-
-- `build-storybook`: create the build version of storybook
-
-  
-  
-  
 
 ## Deploy on Vercel
 
