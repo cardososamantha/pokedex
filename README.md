@@ -1,5 +1,8 @@
+<p align="center">
 
-![image](https://user-images.githubusercontent.com/81335260/170127711-35cfcf50-a944-4013-9d85-8355bf49f59f.png)
+<img src="https://user-images.githubusercontent.com/81335260/170127711-35cfcf50-a944-4013-9d85-8355bf49f59f.png" alt="Pokemon logo"/>
+
+</p>
 
 **Pokedex** is a [Next.js](https://nextjs.org/) web-app using a [boilerplate](https://github.com/cardososamantha/boilerplate) and consuming the [PokeApi](https://pokeapi.co/).
 
